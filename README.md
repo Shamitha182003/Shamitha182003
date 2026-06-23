@@ -5,7 +5,7 @@
 
 ---
 
-# 💫 About Rishi
+# 💫 About Shamitha
 
 🎓 **BE in Information Science** @ Vivekananda Institute of Technology (GPA: **8.50 / 10**)  
 💻 **Full-Stack Developer (MERN & Next.js)** | 🤖 **Machine Learning Enthusiast**  
