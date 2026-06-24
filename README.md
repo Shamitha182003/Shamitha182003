@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=220&section=header&text=Hi%20👋%20I'm%20Shamitha%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=220&section=header&text=Hi%20👋%20I'm%20Shamitha%20K%20B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h3 align="center">
@@ -27,9 +27,9 @@
 🌱 Currently Learning:
 
 * ☁️ AWS Cloud & Cloud Architecture
-* 🤖 Machine Learning & AI
+* 🤖 Machine Learning & Artificial Intelligence
 * 🌐 Modern Web Development
-* 🚀 Open Source Collaboration
+* 🚀 Open Source Technologies
 
 📍 Bengaluru, Karnataka, India
 
@@ -37,47 +37,41 @@
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
 
-### 🌐 Portfolio Website
+## 🌐 Portfolio Website
 
 **Tech Stack:** React.js, Tailwind CSS
 
-✔ Responsive Design
-✔ Modern UI/UX
-✔ Optimized Performance
+* Responsive design for all devices
+* Modern and clean UI
+* Optimized performance
 
----
-
-### 🤖 TradeBot
+## 🤖 TradeBot
 
 **Tech Stack:** HTML, CSS, JavaScript
 
-✔ Financial Query Chatbot
-✔ Interactive User Experience
-✔ Smart Query Handling
+* Financial query chatbot
+* Interactive user experience
+* Smart query handling
 
----
-
-### 🖥️ Zentrax (Ongoing)
+## 🖥️ Zentrax (Ongoing)
 
 **Tech Stack:** Python, TensorFlow
 
-✔ AI Desktop Assistant
-✔ Voice Command Support
-✔ Gesture Recognition
-✔ Productivity Automation
+* AI-powered desktop assistant
+* Voice command support
+* Gesture recognition
+* Productivity automation
 
----
-
-### ☁️ Cloud Learning Journey
+## ☁️ Cloud Learning Projects
 
 **Tech Stack:** AWS, Git, GitHub, Linux
 
-✔ Cloud Deployment Basics
-✔ Hosting & Storage Services
-✔ Scalable Architecture Concepts
-✔ DevOps Fundamentals
+* Cloud deployment fundamentals
+* Hosting and storage services
+* Scalable architecture concepts
+* DevOps fundamentals
 
 ---
 
@@ -86,42 +80,42 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,python" />
+  <img src="https://skillicons.dev/icons?i=java,js,python" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,git,github,linux" />
 </p>
 
 ### AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shamitha182003&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -145,17 +139,12 @@
 
 # 💡 Interests
 
-☁️ Cloud Computing
-
-🤖 Artificial Intelligence
-
-📊 Machine Learning
-
-🌐 Web Development
-
-🚀 Open Source
-
-💻 Software Engineering
+* ☁️ Cloud Computing
+* 🤖 Artificial Intelligence
+* 📊 Machine Learning
+* 🌐 Web Development
+* 🚀 Open Source
+* 💻 Software Engineering
 
 ---
 
@@ -165,15 +154,12 @@ Aspiring Software Engineer passionate about developing scalable applications, ex
 
 ---
 
-# 🏆 Achievements & Learning
+# 🏆 Achievements
 
-🏅 Building AI-powered and web-based applications
-
-🏅 Exploring AWS Cloud Technologies
-
-🏅 Continuous learner in Machine Learning and Software Engineering
-
-🏅 Active participant in technical workshops and hackathons
+* 🎯 Built web development and AI-based projects
+* 📚 Continuously learning Cloud Computing and Machine Learning
+* 🚀 Exploring emerging technologies and software engineering practices
+* 💡 Passionate about solving real-world problems through technology
 
 ---
 
@@ -199,16 +185,16 @@ Aspiring Software Engineer passionate about developing scalable applications, ex
 
 # ⚡ Fun Fact
 
-💭 I enjoy combining creativity and logic to build meaningful technology solutions while continuously exploring emerging technologies in AI and Cloud Computing.
+💭 I enjoy combining creativity and logic to build meaningful technology solutions while continuously exploring AI, Cloud Computing, and modern software development.
 
 ---
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shamitha182003&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shamitha182003&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=120&section=footer" />
 </p>
