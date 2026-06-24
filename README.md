@@ -5,14 +5,8 @@
 </p>
 
 <h3 align="center">
-💻 Software Developer • ☁️ Cloud Computing Enthusiast • 🤖 Machine Learning Explorer
+💻 Software Developer | ☁️ Cloud Computing Enthusiast | 🤖 Machine Learning Explorer
 </h3>
-
-<p align="center">
-  <a href="https://github.com/Shamitha182003">
-    <img src="https://img.shields.io/github/followers/Shamitha182003?label=Followers&style=social" />
-  </a>
-</p>
 
 ---
 
@@ -22,14 +16,14 @@
 
 📊 **CGPA:** 8.1 / 10
 
-💡 Passionate about building innovative solutions using **Software Development, Machine Learning, Artificial Intelligence, and Cloud Computing**.
+💡 Passionate about Software Development, Machine Learning, Artificial Intelligence, and Cloud Computing.
 
 🌱 Currently Learning:
 
-* ☁️ AWS Cloud & Cloud Architecture
-* 🤖 Machine Learning & Artificial Intelligence
-* 🌐 Modern Web Development
-* 🚀 Open Source Technologies
+* AWS Cloud
+* Machine Learning
+* Modern Web Development
+* Open Source Technologies
 
 📍 Bengaluru, Karnataka, India
 
@@ -39,92 +33,19 @@
 
 # 🚀 Projects
 
-## 🌐 Portfolio Website
-
-**Tech Stack:** React.js, Tailwind CSS
-
-* Responsive design for all devices
-* Modern and clean UI
-* Optimized performance
-
-## 🤖 TradeBot
-
-**Tech Stack:** HTML, CSS, JavaScript
-
-* Financial query chatbot
-* Interactive user experience
-* Smart query handling
-
-## 🖥️ Zentrax (Ongoing)
-
-**Tech Stack:** Python, TensorFlow
-
-* AI-powered desktop assistant
-* Voice command support
-* Gesture recognition
-* Productivity automation
-
-## ☁️ Cloud Learning Projects
-
-**Tech Stack:** AWS, Git, GitHub, Linux
-
-* Cloud deployment fundamentals
-* Hosting and storage services
-* Scalable architecture concepts
-* DevOps fundamentals
+| Project                        | Technologies           | Description                                                     |
+| ------------------------------ | ---------------------- | --------------------------------------------------------------- |
+| 🌐 **Portfolio Website**       | React.js, Tailwind CSS | Responsive portfolio showcasing skills and projects             |
+| 🤖 **TradeBot**                | HTML, CSS, JavaScript  | Financial query chatbot with interactive user experience        |
+| 🖥️ **Zentrax (Ongoing)**      | Python, TensorFlow     | AI-powered desktop assistant with voice and gesture control     |
+| ☁️ **Cloud Learning Projects** | AWS, Linux, GitHub     | Exploring cloud deployment, hosting, and scalable architectures |
 
 ---
 
 # 🛠️ Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,python" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,linux" />
-</p>
-
-### AI / ML
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shamitha182003&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamitha182003&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shamitha182003&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,react,nextjs,tailwind,nodejs,express,mongodb,mysql,aws,git,github,linux,tensorflow" />
 </p>
 
 ---
@@ -154,15 +75,6 @@ Aspiring Software Engineer passionate about developing scalable applications, ex
 
 ---
 
-# 🏆 Achievements
-
-* 🎯 Built web development and AI-based projects
-* 📚 Continuously learning Cloud Computing and Machine Learning
-* 🚀 Exploring emerging technologies and software engineering practices
-* 💡 Passionate about solving real-world problems through technology
-
----
-
 # 📫 Connect With Me
 
 <p align="center">
@@ -183,18 +95,6 @@ Aspiring Software Engineer passionate about developing scalable applications, ex
 
 ---
 
-# ⚡ Fun Fact
-
-💭 I enjoy combining creativity and logic to build meaningful technology solutions while continuously exploring AI, Cloud Computing, and modern software development.
-
----
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shamitha182003&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=120&section=footer"/>
 </p>
