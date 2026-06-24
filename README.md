@@ -37,7 +37,7 @@
 | ------------------------------ | ---------------------- | --------------------------------------------------------------- |
 | 🌐 **Portfolio Website**       | React.js, Tailwind CSS | Responsive portfolio showcasing skills and projects             |
 | 🤖 **TradeBot**                | HTML, CSS, JavaScript  | Financial query chatbot with interactive user experience        |
-| 🖥️ **Zentrax (Ongoing)**      | Python, TensorFlow     | AI-powered desktop assistant with voice and gesture control     |
+| 🖥️ **Zentrax **      | Python, TensorFlow     | AI-powered desktop assistant with voice and gesture control     |
 | ☁️ **Cloud Learning Projects** | AWS, Linux, GitHub     | Exploring cloud deployment, hosting, and scalable architectures |
 
 ---
@@ -52,9 +52,9 @@
 
 # 🌍 Languages
 
-* 🇬🇧 English (Fluent)
-* 🇮🇳 Kannada (Fluent)
-* 🇮🇳 Hindi (Conversational)
+*  English (Fluent)
+*  Kannada (Fluent)
+*  Hindi (Conversational)
 
 ---
 
